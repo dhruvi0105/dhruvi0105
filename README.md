@@ -1,4 +1,4 @@
-<embed type="link" src="https://www.canva.com/design/DAFjFOUH3X0/view" width="300" height="200">
+<embed type="text/html" src="https://www.canva.com/design/DAFjFOUH3X0/view" width="500" height="200">
 
 <h1 align = "center">Hello, I'm Dhruvi!<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "30px" height = "30px"></h1>
 
