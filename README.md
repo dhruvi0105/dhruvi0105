@@ -14,7 +14,7 @@
 <p align = "center">
   <a href = "https://www.linkedin.com/in/dhruvi-rank-a38876253/"><img align = "left" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" style = "width:42px;height:42px;"></a>
   <a href = "https://instagram.com/dhruvi_rank?igshid=ZGUzMzM3NWJiOQ=="><img  align = "left" src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" style = "width:42px;height:42px;"></a>
-   <a href ="https://instagram.com/dhruvi_rank?igshid=ZGUzMzM3NWJiOQ==" ><img align = "left" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png" style = "width:42px;height:42px;"></a>
+   <a href ="discordapp.com/users/1088348921258061864" ><img align = "left" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png" style = "width:42px;height:42px;"></a>
  
   </p>
   </h3>
