@@ -1,3 +1,5 @@
+![MasterHead](https://www.canva.com/design/DAFjFOUH3X0/AqWfPbN-QPZcQTUrNQxy8w/edit?utm_content=DAFjFOUH3X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton?width=1025&height=256)
+
 <h1 align = "center">Hello, I'm Dhruvi!<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "30px" height = "30px"></h1>
 
 <h2 align = "center">A passionate CSE Fresher...</h2>
