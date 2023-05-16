@@ -13,6 +13,6 @@
 <h3 align = "left"> Find me at </h3>
 <p align = "left">
   <a href = "https://www.linkedin.com/in/dhruvi-rank-a38876253/"><img align = "left" src = "https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style = "width:84px;height:84px;"></a>
-  <a href = "https://instagram.com/dhruvi_rank?igshid=ZGUzMzM3NWJiOQ=="><img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style = "width:84px;height:84px;"></a>
+  <a href = "https://instagram.com/dhruvi_rank?igshid=ZGUzMzM3NWJiOQ=="><img align = "left" src = "https://www.vecteezy.com/png/16716448-instagram-png-icon" style = "width:84px;height:84px;"></a>
   </p>
   
