@@ -3,10 +3,11 @@
 
 <h2 align = "center">A passionate CSE Fresher...</h2>
 
+
 <h2 align = "left"> About Me 🐼	</h2>
 
 - 🎓 I am pursuing my **B.Tech** in **CSE** from **VIT, Chennai**.
-- 👩‍💻 Currently I am learning **Javascript**, **CSS** for Web Development and **Cpp** for for Competitive programming.
+- 👩‍💻 Currently I am learning **Javascript**, **CSS** , **HTML** for Web Development and **Cpp** for Competitive programming.
 - 🤝 Always open to learn and work.
 - ✨ Like to dance💃 and swim 🏊‍♀️ in my free time.
 - ☎️ Reach me at **dhruvirank2005@gmail.com**
@@ -19,3 +20,6 @@
  
   </p>
   </h3>
+  <br><br><br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvi0105-11&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+
