@@ -1,13 +1,13 @@
 
 <h1 align = "center">Hello, I'm Dhruvi ! <img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "30px" height = "30px"></h1>
 
-<h2 align = "center">A passionate CSE Fresher...</h2>
+<h2 align = "center">A passionate CSE Student...</h2>
 
 
 <h2 align = "left"> About Me 🐼	</h2>
 
 - 🎓 I am pursuing my **B.Tech** in **CSE** from **VIT, Chennai**.
-- 👩‍💻 Currently I am learning **Javascript**, **CSS** , **HTML** for Web Development and **Cpp** for Competitive programming.
+- 👩‍💻 Currently I am learning **Javascript**, **CSS** , **HTML** , **React** , for Web Development and **DSA-CPP** for Competitive programming.
 - 🤝 Always open to learn and work.
 - ✨ Like to dance💃 and swim 🏊‍♀️ in my free time.
 - ☎️ Reach me at **dhruvirank2005@gmail.com**
